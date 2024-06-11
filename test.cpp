@@ -26,3 +26,4 @@ for(int i=0,k=n-1;k>=i;){
 }
 cout<<accumulate(sreeja.begin(),sreeja.end(),0)<<" "<<accumulate(dima.begin(),dima.end(),0);
 }
+cout<<"lalalalala";<<"this is in developer enw;"
